@@ -49,7 +49,7 @@
 #-----------------------------------------------------------------------------------------------#
 ->  Alias
 ->  Criando um alias (apelido) para baixar as atualizações do github
-    git config --global alias.update "pull origin main"
+    git config --global alias.save '!git add . && git commit -m "update" && git push origin main'
 ->  Agora, basta rodar: git update
 
 
