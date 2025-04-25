@@ -1,0 +1,13 @@
+⚙️ Ativar Blur de acordo com a preferência:
+iTerm2 > Preferências > Profiles > Default
+
+
+
+EXTRA!
+
+✨Dracula iTerm Theme:
+https://github.com/dracula/iterm
+
+Instalação:
+ iTerm2 > Preferences > Profiles > Colors
+ Color Presets... > Import
