@@ -17,6 +17,14 @@ https://www.nerdfonts.com/
 Prompt: Starship (Interpretador personalizável) 
 https://github.com/starship/starship
 
+Rodar iTerm2 com Starship
+nano ~/.zshrc
+- Cole no arquivo:
+eval "$(starship init zsh)"
+- Depois rode:
+source ~/.zshrc
+
+
 Changelog: 
 https://keepachangelog.com/pt-BR/1.0.0/
 
